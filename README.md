@@ -1,6 +1,6 @@
 # InfraOS
 
-## InfraOS — Monitoramento e inventário de infraestrutura
+## Monitoramento e inventário de infraestrutura
 
 ## Visão geral
 
