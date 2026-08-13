@@ -1,6 +1,6 @@
-InfraOS
+# InfraOS
 
-## InfraOS  Monitoramento e inventário de infraestrutura
+## InfraOS — Monitoramento e inventário de infraestrutura
 
 ## Visão geral
 
@@ -11,6 +11,24 @@ A plataforma reúne, em uma interface centralizada, informações coletadas remo
 Além do acompanhamento operacional, o InfraOS permite organizar os computadores por setor, testar a conectividade antes do cadastro, incluir equipamentos manualmente e preservar o histórico de patrimônios inativados.
 
 > O projeto trabalha com informações sensíveis da infraestrutura interna. Não publique inventários, endereços IP, nomes de computadores, usuários, credenciais ou arquivos de backup.
+
+![Visão geral do InfraOS](docs/images/infraos.png)
+
+## Gestão por setores
+
+O InfraOS permite organizar o inventário por setor, acompanhar indicadores consolidados e consultar os equipamentos vinculados a cada área.
+
+![Detalhes do setor](docs/images/detalhes-setor.png)
+
+![Visão consolidada por setores](docs/images/visao-setores.png)
+
+## Alertas e análises
+
+As centrais de alertas e análises ajudam a priorizar computadores com consumo elevado de recursos, falhas de comunicação ou necessidade de intervenção técnica.
+
+![Central de alertas](docs/images/central-alertas.png)
+
+![Central de análises](docs/images/central-analises.png)
 
 ## Principais funcionalidades
 
