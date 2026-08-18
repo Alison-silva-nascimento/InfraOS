@@ -12,7 +12,7 @@ Além do acompanhamento operacional, o InfraOS permite organizar os computadores
 
 > O projeto trabalha com informações sensíveis da infraestrutura interna. Não publique inventários, endereços IP, nomes de computadores, usuários, credenciais ou arquivos de backup.
 
-![Tela de Login](docs/screenshots/login-infraos.png)
+![Tela de Login](docs/images/login-infraos.png)
 
 ![Visão geral do InfraOS](docs/images/infraos.png)
 
