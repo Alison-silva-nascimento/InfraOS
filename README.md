@@ -12,11 +12,13 @@ Além do acompanhamento operacional, o InfraOS permite organizar os computadores
 
 > O projeto trabalha com informações sensíveis da infraestrutura interna. Não publique inventários, endereços IP, nomes de computadores, usuários, credenciais ou arquivos de backup.
 
+![Tela de Login](docs/images/logininfraos.png)
+
 ![Visão geral do InfraOS](docs/images/infraos.png)
 
 ## Gestão por setores
 
-O InfraOS permite organizar o inventário por setor, acompanhar indicadores consolidados e consultar os equipamentos vinculados a cada área.
+O InfraOS permite organizar o inventário por setor, acompanhar indicadores consolidados e consultar os equipamentos vinculados a cada área
 
 ![Detalhes do setor](docs/images/detalhes-setor.png)
 
